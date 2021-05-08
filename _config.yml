@@ -37,4 +37,4 @@ markdown: kramdown
 formspree_form_path: "f/moqprglo"
 
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
