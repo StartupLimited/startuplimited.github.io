@@ -34,7 +34,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-formspree_form_path: "f/moqprglo"
+formspree_form_path: "f8eaa6da-94b9-44bf-a780-2ff7d5de73d9"
 
 plugins:
   - jekyll-remote-theme
