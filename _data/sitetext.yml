@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Startup.Limited!
-    text:  early-stage startups & their founders.
-    button: Signup for more details.
-    buttonlink: "#contact"
+    text:  Share your startup details here. I promise to 
+    button: Schedule a call
+    buttonlink: "https://calendly.com/nikhilgohil11/15min"
     
   services:
     title: "Subscribe for:"
@@ -22,29 +22,24 @@ en: &DEFAULT_EN
     title: "Subscribe for:"
     section: services
     list:
-      - title: "Jobs"
-        desc: "startups jobs"
-        icon: fas fa-user-tie #find more at https://fontawesome.com/icons
-      - title: "Investors"
-        desc: "right investment opportunity"
-        icon: fas fa-people-carry
       - title: "Startups"
         desc: "community"
         icon: fas fa-building
-  
+      - title: "Investors"
+        desc: "right investment opportunity"
+        icon: fas fa-people-carry
+      - title: "Jobs"
+        desc: "startups jobs"
+        icon: fas fa-user-tie #find more at https://fontawesome.com/icons
 
   contact:
-    title: "Subcribe to get weekly email "
-    text: "about startups, jobs and investors"
+    title: "Subcribe to for early stage startups details"
+    text: "about startups, investors and jobs"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    weblink: "Website / Link"
-    weblink-validation: "Please enter your website or link."
-    message: "Message"
-    message-validation: "Please enter a message."
     subject: "Startup.Limited Form Submission"
     submit: "Send Message"
 
