@@ -33,8 +33,8 @@ en: &DEFAULT_EN
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
 
   contact:
-    title: "Subcribe to for early stage startups details"
-    text: "about startups, investors and jobs"
+    title: "Subcribe to get early stage startups details"
+    text: "startups, investors and jobs"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
